@@ -1,10 +1,9 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 
+title: The title of your site
+description: A short description of your site's purpose
 
-
-title: Keissen's homepage
-tagline: Offering documentation on my assets, and various customization guides.
-description: VRC asset documentation and customization guides. Nothing to see here, still testing.
+show_downloads: false
 google_analytics: G-WCEF3XGBVM

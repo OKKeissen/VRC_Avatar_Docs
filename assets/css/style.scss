@@ -1,0 +1,92 @@
+---
+---
+
+@import dark.css;
+
+/* --- Dark Theme Overrides --- */
+
+:root {
+  --bg: #0b0e12;
+  --bg-elev: #12161c;
+  --bg-muted: #161b22;
+  --text: #e6e6e6;
+  --text-muted: #b7bec8;
+  --border: #2a3240;
+  --accent: #7aa2f7;
+  --accent-2: #c678dd;
+  --success: #98c379;
+  --warning: #e5c07b;
+  --danger:  #e06c75;
+  --code-bg: #0d1117;
+  --code-text: #e6e6e6;
+  --shadow: 0 6px 32px rgba(0, 0, 0, 0.35);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--accent);
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+}
+
+.site-header,
+header.site-header,
+.navbar,
+.site-nav {
+  background: rgba(11, 14, 18, 0.85);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+
+.card, .panel {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  padding: 1rem;
+}
+
+code, pre {
+  background: var(--code-bg);
+  color: var(--code-text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+blockquote {
+  background: var(--bg-elev);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+}
+
+table {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  thead {
+    background: var(--bg-muted);
+    color: var(--text);
+  }
+  tbody tr:hover {
+    background: #12161c;
+  }
+}
+
+.button, button, input[type="submit"], input[type="button"] {
+  background: var(--accent);
+  color: #0a0a0a;
+  border: none;
+  border-radius: 8px;
+  padding: 0.55rem 0.9rem;
+  font-weight: 600;
+  &:hover { filter: brightness(1.08); }
+  &:active { transform: translateY(1px); }
+}
