@@ -7,18 +7,20 @@
 Much of the layout is uncertain. Everything is under construction. If you happen to stumble into this mess, feel free to contact me!
 
 ![Project Screenshot](assets/image1.jpeg)
-
-## 📷 Enjoy a picture of me
----
-
-## Watch the Introduction
-
-[![Watch the video](https://img.youtube.com/vi/4lbDZrKahrI/hqdefault.jpg)](https://www.youtube.com/watch?v=4lbDZrKahrI)
-
-
-[![Watch the video](https://img.youtube.com/vi/a-0x7d_G6gc/hqdefault.jpg)](https://www.youtube.com/watch?v=a-0x7d_G6gc)
+^ *📷 Enjoy a picture of me* ^
 
 ---
+
+# Introduction
+
+This site serves as a host for documentation related to the VRChat assets I created, as well as general tutorials and guides on avatar customization.
+It should benefit those who wish to personalize their avatars, especially begineers.
+
+Please read the [Disclaimer](docs/0.md) before you proceed any further. Thank you!
+
+---
+
+# Directory
 
 ## General Guide
 
@@ -30,7 +32,7 @@ Much of the layout is uncertain. Everything is under construction. If you happen
 6. [Credits](docs/6.md)
 7. [Notes](docs/7.md)
 
----
+
 
 ## My Products
 
@@ -39,7 +41,7 @@ Much of the layout is uncertain. Everything is under construction. If you happen
 
 ---
 
-### More of me:  
+## More of me:  
 
 **Contact me here!:** https://x.com/OKKeissen
 
