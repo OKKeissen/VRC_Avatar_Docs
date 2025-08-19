@@ -14,7 +14,7 @@ Much of the layout is uncertain. Everything is under construction. If you happen
 # Introduction
 
 This site serves as a host for documentation related to the VRChat assets I created, as well as general tutorials and guides on avatar customization.
-It should benefit those who wish to personalize their avatars, especially begineers.
+It should benefit those who wish to personalize their avatars, especially beginners.
 
 Please read the [Disclaimer](docs/0.md) before you proceed any further. Thank you!
 
