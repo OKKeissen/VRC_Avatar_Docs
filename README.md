@@ -6,10 +6,9 @@
 
 Much of the layout is uncertain. Everything is under construction. If you happen to stumble into this mess, feel free to contact me!
 
+![Project Screenshot](assets/image1.jpeg)
+
 ## 📷 Enjoy a picture of me
-
-[![Project Screenshot](assets/image1.jpeg)]
-
 ---
 
 ## Watch the Introduction
