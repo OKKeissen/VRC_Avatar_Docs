@@ -42,7 +42,8 @@ text text text text text text text text text text text text text text text text 
 
 ## My Products
 
-[Click here](docs2/p1.md)
+[![Watch the video](assets/productbanner.jpeg)](docs2/p1.md)
+[Documentation](docs2/p1.md)
 
 ---
 
