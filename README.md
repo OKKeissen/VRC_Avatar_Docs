@@ -23,9 +23,11 @@ This is the starting point for everything. Should serve as a TOC.
 ## Video
 
 [![Watch the video](https://img.youtube.com/vi/4lbDZrKahrI/hqdefault.jpg)](https://www.youtube.com/watch?v=4lbDZrKahrI)
+
 *Click to watch our YouTube intro on how everything works.*
 
 [![Watch the video](https://img.youtube.com/vi/a-0x7d_G6gc/hqdefault.jpg)](https://www.youtube.com/watch?v=a-0x7d_G6gc)
+
 *Click to watch our YouTube intro on how everything works2.*
 ---
 
