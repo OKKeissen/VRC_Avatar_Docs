@@ -16,7 +16,7 @@
 
 ## Image
 
-![Project Screenshot](assets/image1.jpeg)  
+![Project Screenshot](image1.jpeg)  
 ^ *comment about image above.* ^
 
 
