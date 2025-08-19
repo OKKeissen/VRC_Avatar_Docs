@@ -2,18 +2,13 @@
 
 ---
 
-# Hello
+# Hello there!
 
-text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
-text text text text text text text text 
-text text text text text text text text text text text text text text text 
+Much of the layout is uncertain. Everything is under construction. If you happen to stumble into this mess, feel free to contact me!
 
-text text text text text text text text text text text text text text text text text text text text text 
+## 📷 Enjoy a picture of me
 
-## 📷 Project Sneak Peek
-
-![Project Screenshot](assets/image1.jpeg)  
-*Above: A first look at our project in action.*
+[![Project Screenshot](assets/image1.jpeg)]
 
 ---
 
