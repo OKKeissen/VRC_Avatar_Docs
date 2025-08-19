@@ -1,6 +1,11 @@
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [中文](README.zh.md)
+
 ---
 
-[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [中文](README.zh.md)
+# 🌟 Hello
+
+What What What What What What What What 
+What What What What What What What What What What What What What What What What What 
 
 # Landing Page
 
@@ -15,23 +20,23 @@ This is the starting point for everything. Should serve as a TOC.
 
 ---
 
-## 🎥 Watch the Introduction
+## Video
 
-[![Watch the video](assets/video-thumbnail.jpeg)](https://www.youtube.com/shorts/4lbDZrKahrI)  
+(https://www.youtube.com/shorts/4lbDZrKahrI)  
 *Click to watch our YouTube intro on how everything works.*
 
-[![Watch the video](assets/video-thumbnail.jpeg)](https://www.youtube.com/watch?v=a-0x7d_G6gc)  
+(https://www.youtube.com/watch?v=a-0x7d_G6gc)  
 *Click to watch our YouTube intro on how everything works2.*
 ---
 
-## 📜 About This Repository
+## About This Repository
 
 This project is built entirely in Markdown for simplicity and portability.  
 You can explore the docs, contribute improvements, or just enjoy the resources.
 
 ---
 
-## 🚀 More links
+## More links
 
 **More of me**:  
 https://x.com/OKKeissen
