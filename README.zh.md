@@ -1,7 +1,3 @@
-
-
-## **`README.zh.md` (中文)**
-```markdown
 # 🌟 欢迎来到我的项目
 
 [English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [中文](README.zh.md)
