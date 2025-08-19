@@ -32,7 +32,7 @@ text text text text text text text text text text text text text text text text 
 
 1. [Essential Setup](docs/1.md)
 2. [First Steps](docs/2.md)
-3. [Examples](docs/3.md)z
+3. [Examples](docs/3.md)
 4. [Reference](docs/4.md)
 5. [FAQ](docs/5.md)
 6. [Credits](docs/6.md)
