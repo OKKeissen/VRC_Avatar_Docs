@@ -38,14 +38,10 @@ text text text text text text text text text text text text text text text text 
 6. [Credits](docs/6.md)
 7. [Notes](docs/7.md)
 
----
-
-## About This Repository
-
-**Markdown‑first.** Simple. Portable. Accessible.  
-Browse the docs, contribute improvements, or just enjoy the resources.
 
 ---
 
-**More of me**:  
-https://x.com/OKKeissen
+### More of me:  
+**Contact me here!:** https://x.com/OKKeissen
+**Booth store page:** https://keissen.booth.pm/
+**All my links!:** https://beacons.ai/keissen
