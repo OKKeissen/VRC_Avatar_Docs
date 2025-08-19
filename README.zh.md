@@ -4,7 +4,7 @@
 
 # 你好！
 
-网站的大部分布局尚未确定，一切仍在建设中。如果你偶然闯入这陀答辩之中，欢迎随时联系我！
+网站的大部分布局尚未确定，一切仍在建设中。
 
 ![Project Screenshot](assets/image1.jpeg)
 ^ *📷 Enjoy a picture of me* ^
