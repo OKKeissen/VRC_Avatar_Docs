@@ -21,8 +21,6 @@ text text text text text text text text text text text text text text text text 
 
 [![Watch the video](https://img.youtube.com/vi/4lbDZrKahrI/hqdefault.jpg)](https://www.youtube.com/watch?v=4lbDZrKahrI)
 
-*Click to watch our YouTube intro on how everything works.*
-
 
 [![Watch the video](https://img.youtube.com/vi/a-0x7d_G6gc/hqdefault.jpg)](https://www.youtube.com/watch?v=a-0x7d_G6gc)
 
@@ -43,7 +41,7 @@ text text text text text text text text text text text text text text text text 
 ## My Products
 
 [![Watch the video](assets/productbanner.jpeg)](docs2/p1.md)
-[Documentation](docs2/p1.md)
+^ *Click for Documentation and advanced customization tips.* ^
 
 ---
 
