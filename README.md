@@ -30,13 +30,13 @@ text text text text text text text text text text text text text text text text 
 
 ## 📖 Table of Contents
 
-1. [Essential Setup](docs/1/1.md)
-2. [First Steps](docs/2/2.md)
-3. [Examples](docs/3/3.md)
-4. [Reference](docs/4/4.md)
-5. [FAQ](docs/5/5.md)
-6. [Credits](docs/6/6.md)
-7. [Notes](docs/7/7.md)
+1. [Essential Setup](docs/1.md)
+2. [First Steps](docs/2.md)
+3. [Examples](docs/3.md)z
+4. [Reference](docs/4.md)
+5. [FAQ](docs/5.md)
+6. [Credits](docs/6.md)
+7. [Notes](docs/7.md)
 
 ---
 
