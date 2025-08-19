@@ -1,6 +1,15 @@
 ---
 
+## **`README.ko.md` (한국어)**
+```markdown
+# 🌟 프로젝트에 오신 것을 환영합니다
+
 [English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [中文](README.zh.md)
+
+이곳은 프로젝트의 시작점입니다.  
+코드를 깊이 살펴보거나 가볍게 둘러볼 때도, 이 페이지가 가이드를 제공합니다.
+
+---
 
 # Landing Page
 

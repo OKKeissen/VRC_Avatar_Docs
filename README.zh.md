@@ -1,6 +1,13 @@
----
+
+
+## **`README.zh.md` (中文)**
+```markdown
+# 🌟 欢迎来到我的项目
 
 [English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [中文](README.zh.md)
+
+这里是项目的起点。  
+无论你是随便看看，还是深入研究代码，这个页面都会为你提供指引。
 
 # Landing Page
 
